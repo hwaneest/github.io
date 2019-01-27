@@ -1,1 +1,6 @@
+#setup
+title : hey hwanee
+url : http://hwan141592.github.io
+baseurl : /
+
 theme: jekyll-theme-slate 
