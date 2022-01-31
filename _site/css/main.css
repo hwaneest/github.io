@@ -397,7 +397,8 @@ pre code.hljs {
 *	Body
 */
 .page-content {
-  margin-top: 100px;
+  margin-top: 66px;
+  margin-bottom: 66px;
   /*
   *	index.html
   */
