@@ -76,6 +76,21 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
+
+  - name: GitHub
+    icon: github
+    username: "Github"
+    url: https://github.com/hwaneest
+    desc: Fork me on GitHub
+    share: true
+
+  - name: LinkedIn
+    icon: linkedin
+    username: "LinkedIn"
+    url: https://www.linkedin.com/in/da-devangelist
+    desc: Connect with me on LinkedIn
+    share: true
+
   - name: Twitter
     icon: twitter
     username: ""
@@ -89,20 +104,6 @@ social:
     url: ""
     desc: Friend me on Facebook
     share: false
-
-  - name: GitHub
-    icon: github
-    username: "@Github"
-    url: https://github.com/hwaneest
-    desc: Fork me on GitHub
-    share: true
-
-  - name: LinkedIn
-    icon: linkedin
-    username: "@LinkedIn"
-    url: https://www.linkedin.com/in/da-devangelist
-    desc: Connect with me on LinkedIn
-    share: true
 
   - name: Google+
     icon: google-plus
