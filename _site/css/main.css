@@ -297,7 +297,7 @@ pre code.hljs {
     padding: 3em 1em; }
     .site-header-container .scrim.has-cover, .post-header-container .scrim.has-cover {
       background-color: rgba(0, 0, 0, 0.2);
-      padding: 15em 1em 15em 1em !important; }
+      padding: 6em 1em !important; }
       @media screen and (min-width: 768px) {
         .site-header-container .scrim.has-cover, .post-header-container .scrim.has-cover {
           padding: 9em 1em !important; } }
@@ -411,7 +411,7 @@ pre code.hljs {
     max-width: 48em;
     margin-left: auto;
     margin-right: auto;
-    padding: 2em 1em 2em 1em; }
+    padding: 1em; }
     .page-content .wrapper::after {
       clear: both;
       content: "";
@@ -558,7 +558,7 @@ pre code.hljs {
 *	Footer
 */
 .site-footer {
-  padding: 3em 1em 3em 1em;
+  padding: 1em 1em 2em 1em;
   background-color: #555555;
   color: #fff;
   /*
@@ -568,7 +568,7 @@ pre code.hljs {
   *	Contact Info (center)
   */
   /*
-  *	Site Description/Signature (right) >> media
+  *	Site Description/Signature (right)
   */ }
   .site-footer a {
     color: #fff; }
