@@ -297,7 +297,7 @@ pre code.hljs {
     padding: 3em 1em; }
     .site-header-container .scrim.has-cover, .post-header-container .scrim.has-cover {
       background-color: rgba(0, 0, 0, 0.2);
-      padding: 20em 1em 20em 1em !important; }
+      padding: 15em 1em 15em 1em !important; }
       @media screen and (min-width: 768px) {
         .site-header-container .scrim.has-cover, .post-header-container .scrim.has-cover {
           padding: 9em 1em !important; } }
@@ -398,7 +398,6 @@ pre code.hljs {
 */
 .page-content {
   margin-top: 66px;
-  margin-bottom: 66px;
   /*
   *	index.html
   */
