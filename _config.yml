@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Welcome!
-subtitle: "Donghwan's web page! (-ing)"
+subtitle: "Donghwan's page (-ing)"
 email: volunteerhwan@gmail.com
 name: Donghwan Kim
 description: >
@@ -81,14 +81,14 @@ social:
     username: ""
     url: "" #https://twitter.com/kim...
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
@@ -109,7 +109,7 @@ social:
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -130,7 +130,7 @@ social:
     username: ""
     url: ""
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -179,7 +179,7 @@ social:
     username: ""
     url: ""
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
