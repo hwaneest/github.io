@@ -92,7 +92,7 @@ social:
 
   - name: GitHub
     icon: github
-    username: github
+    username: Github
     url: https://github.com/hwaneest
     desc: Fork me on GitHub
     share: true
