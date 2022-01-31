@@ -92,14 +92,14 @@ social:
 
   - name: GitHub
     icon: github
-    username: Github
+    username: "Github"
     url: https://github.com/hwaneest
     desc: Fork me on GitHub
     share: true
 
   - name: LinkedIn
     icon: linkedin
-    username: LinkedIn
+    username: "LinkedIn"
     url: https://www.linkedin.com/in/da-devangelist
     desc: Connect with me on LinkedIn
     share: true
