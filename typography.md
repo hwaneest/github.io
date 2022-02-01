@@ -11,13 +11,13 @@ main_nav: true
 
 <hr>
 
-<h1 id="list_types">강의</h1>
+<h2 id="list_types">강의</h2>
   <ul>
     <li>내용: Python for Data Analysis / Python for Data Science / SQL for Data Analyst</li>
     <li>난이도: Beginner / Basic / Intermediate</li>
   </ul>
 
-  <h3>History</h3>
+  <h4>History</h4>
   <ul>
     <li>
       DT University Data Analytics Basic Class / Hana Financial Group / 2021.04 ~ 2021.09
@@ -37,10 +37,10 @@ main_nav: true
   </ul>
 
 
-
 <hr>
 
-<h1 id="list_types">강연</h1>
+
+<h2 id="list_types">강연</h2>
 
   <ul>
     <li>구분: 특강, 초청강연 등</li>
@@ -48,7 +48,7 @@ main_nav: true
   </ul>
 
 
-  <h3>History</h3>
+  <h4>History</h4>
   <ul>
     <li>
       About Insight from Data Analysis / BixData / 2021.03
@@ -61,7 +61,7 @@ main_nav: true
 <hr>
 
 
-<h1 id="list_types">멘토링</h1>
+<h2 id="list_types">멘토링</h2>
 
   <ul>
     <li>구분: 멘토링, 커리어코칭 등</li>
@@ -69,7 +69,7 @@ main_nav: true
   </ul>
 
 
-  <h3>History</h3>
+  <h4>History</h4>
   <ul>
     <li>
       Social Career Mentoring Service 'itdaa' platform official mentor / 2021.01 ~ present
@@ -79,7 +79,10 @@ main_nav: true
     </li>
   </ul>
 
+<br>
 <hr>
+
+
 
 
 
