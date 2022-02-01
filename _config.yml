@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Welcome!
-subtitle: "Donghwan's page (-ing)"
+subtitle: "Donghwan Kim's page"
 email: volunteerhwan@gmail.com
 name: Donghwan Kim
 description: >
-  (-ingaa)
+  (-ing)
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
