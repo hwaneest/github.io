@@ -79,8 +79,8 @@ main_nav: true
     </li>
   </ul>
 
-<br>
 <hr>
+<br>
 
 
 
