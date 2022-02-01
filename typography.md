@@ -91,6 +91,94 @@ main_nav: true
 <hr>
 <br>
 
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+
+
+<h2 id="list_types">Lecture</h2>
+
+  <h5><U>난이도</U></h5>
+  <ul>
+    <li>Beginner / Basic / Intermediate</li>
+  </ul>
+
+  <h5><U>주제</U></h5>
+  <ul>
+    <li>Python programming for Data Analysis</li>
+    <li>Python programming for Data Science</li>
+    <li>SQL programming</li>
+    <li>Statistics for Data Analyst/Data Scientist</li>
+  </ul>
+
+  <h4>History</h4>
+  <ul>
+    <li>
+      DT University Data Analytics Basic Class / Hana Financial Group / 2021.04 ~ 2021.09
+    </li>
+    <li>
+      2021 Elice AI Track Data Analytics Class / Ministry of Employment and Labor / 2021.03 ~ 2021.09
+    </li>
+    <li>
+      DT University Digital Analytics Class / Hana Financial Group / 2021.04
+    </li>
+    <li>
+      2020 NIPA Mix&Match AI/Data Analytics Academy Lecture / Ministry of Science and ICT / 2020.11
+    </li>
+    <li>
+      [A to Z Series] Data Analysis Practice Class / Curiousity Project Team / 2020.08
+    </li>
+  </ul>
+
+
+<hr>
+
+
+<h2 id="list_types">Guest Lecture</h2>
+
+  <ul>
+    <li>구분: 특강, 초청강연 등</li>
+    <li>난이도: 비전문가 대상 / 전문가 대상</li>
+  </ul>
+
+
+  <h4>History</h4>
+  <ul>
+    <li>
+      About Insight from Data Analysis / BixData / 2021.03
+    </li>
+    <li>
+      About Insight from Data Analysis in the Game Industry / Seoul Data Science Research Group / 2019.06
+    </li>
+  </ul>
+
+<hr>
+
+
+<h2 id="list_types">Mentoring</h2>
+
+  <ul>
+    <li>구분: 멘토링, 커리어코칭 등</li>
+    <li>대상: 취업준비생, 비전문가 등</li>
+  </ul>
+
+
+  <h4>History</h4>
+  <ul>
+    <li>
+      Social Career Mentoring Service 'itdaa' platform official mentor / 2021.01 ~ present
+    </li>
+    <li>
+      Career Coaching and Mentoring for Global Company Employment / 2020.08 ~ present
+    </li>
+  </ul>
+
+<hr>
+<br>
+
+
 
 
 
