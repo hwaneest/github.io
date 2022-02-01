@@ -13,11 +13,12 @@ main_nav: true
 
 <h2 id="list_types">강의</h2>
 
+  <h5>난이도</h5>
   <ul>
-    <li>난이도: Beginner / Basic / Intermediate</li>
+    <li>Beginner / Basic / Intermediate</li>
   </ul>
 
-  <h4>주제</h4>
+  <h5>주제</h5>
   <ul>
     <li>Python programming for Data Analysis</li>
     <li>Python programming for Data Science</li>
