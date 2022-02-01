@@ -13,16 +13,19 @@ main_nav: true
 
 <h2 id="list_types">강의</h2>
 
-  <h4 id="list_types">주제</h4>
-    <ul>
-      <li>Python programming for Data Analysis</li>
-      <li>Python programming for Data Science</li>
-      <li>SQL programming</li>
-      <li>Statistics for Data Analyst/Data Scientist</li>
-    </ul>
-    <ul>
-      <li>난이도: Beginner / Basic / Intermediate</li>
-    </ul>
+  <ul>
+    <li>구분: 특강, 초청강연 등</li>
+    <li>난이도: 비전문가 대상 / 전문가 대상</li>
+  </ul>
+  <ul>
+    <li>Python programming for Data Analysis</li>
+    <li>Python programming for Data Science</li>
+    <li>SQL programming</li>
+    <li>Statistics for Data Analyst/Data Scientist</li>
+  </ul>
+  <ul>
+    <li>난이도: Beginner / Basic / Intermediate</li>
+  </ul>
 
   <h4>History</h4>
   <ul>
