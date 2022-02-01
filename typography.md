@@ -66,10 +66,25 @@ main_nav: true
     <h4>History</h4>
     <ul>
       <li>
-        About Insight from Data Analysis / BixData / 2021.03
+        데이터분석가 & 쿠팡 Experience / 진학사(CATCH) / 2022.01
       </li>
       <li>
-        About Insight from Data Analysis in the Game Industry / Seoul Data Science Research Group / 2019.06
+        데이터분석 웨비나 / (주)엘리스(K-Digital Credit) / 2021.12
+      </li>
+      <li>
+        데이터분석가 경험기 / (주)엔코아(PlayData) / 2021.05
+      </li>
+      <li>
+        데이터분석가 Life / B.O.A.Z(국내 빅데이터 연합동아리) / 2021.05
+      </li>
+      <li>
+        산업공학 진로 및 데이터분석 커리어 / 서울과학기술대학교(산업공학과) / 2021.05
+      </li>
+      <li>
+        데이터분석가 인사이트 / BixData / 2021.03
+      </li>
+      <li>
+        게임 데이터분석 인사이트 / 서울데이터과학연구회 / 2019.06
       </li>
     </ul>
 </fieldset>
@@ -89,10 +104,13 @@ main_nav: true
     <h4>History</h4>
     <ul>
       <li>
-        Social Career Mentoring Service 'itdaa' platform official mentor / 2021.01 ~ present
+        데이터분석 직무 및 기업 경험 멘토링 / 진학사 CATCH / 2022.01 ~ 현재
       </li>
       <li>
-        Career Coaching and Mentoring for Global Company Employment / 2020.08 ~ present
+        소셜 커리어 멘토링 서비스 itdaa 플랫폼 공식 멘토 / itdaa / 2021.01 ~ 현재
+      </li>
+      <li>
+        외국계 기업 취업준비생들을 위한 커리어 코칭/멘토링 / Curiousity Project Team / 2020.08 ~ present
       </li>
     </ul>
 </fieldset>
