@@ -123,12 +123,7 @@ main_nav: true
 <fieldset>
   <h2 id="list_types">Lecture</h2>
 
-    <h5><U>난이도</U></h5>
-    <ul>
-      <li>Beginner / Basic / Intermediate</li>
-    </ul>
-
-    <h5><U>주제</U></h5>
+    <h5><U>Subjects</U></h5>
     <ul>
       <li>Python Programming for Data Analysis</li>
       <li>Python Programming for Data Science</li>
@@ -136,6 +131,12 @@ main_nav: true
       <li>Statistics for Data Analyst/Data Scientist</li>
       <li>Statistics & Python Programming</li>
     </ul>
+
+    <h5><U>Level</U></h5>
+    <ul>
+      <li>Beginner / Basic / Intermediate</li>
+    </ul>
+
 
     <h4>History</h4>
     <ul>
