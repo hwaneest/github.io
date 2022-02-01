@@ -12,10 +12,12 @@ main_nav: true
 <hr>
 
 <h1 id="list_types">강의</h1>
+  <ul>
+    <li>내용: Python for Data Analysis / Python for Data Science / SQL for Data Analyst</li>
+    <li>난이도: Beginner / Basic / Intermediate</li>
+  </ul>
 
-<p>Lists are unstyled by defualt. To restore the original styling, add the <code>.default</code> class</p>
-
-  <h3>Unordered List</h3>
+  <h4>강의 History</h4>
   <ul>
     <li>List Item 1</li>
     <li>List Item 2</li>
@@ -25,9 +27,7 @@ main_nav: true
 
 <h1 id="list_types">강연(특강 및 초청강연)</h1>
 
-<p>Lists are unstyled by defualt. To restore the original styling, add the <code>.default</code> class</p>
-
-  <h3>Unordered List</h3>
+  <h4>강연 History</h4>
   <ul>
     <li>List Item 1</li>
     <li>List Item 2</li>
@@ -37,6 +37,12 @@ main_nav: true
 <hr>
 <hr>
 <hr>
+
+
+
+
+<!-- 
+
 
 <p>The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
 
@@ -187,3 +193,10 @@ main_nav: true
   </tr>
 </table>
 </div>
+
+
+
+
+-->
+
+
