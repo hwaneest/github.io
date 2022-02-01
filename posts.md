@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Career"
+title: Career
 permalink: /posts/
 main_nav: true
 ---
