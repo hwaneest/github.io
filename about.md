@@ -7,6 +7,8 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile_photo_h.png "Profile Picture"){:.profile}
 
+[Short Bio]
+
 Donghwan is currently a graduate student in the [Business School at National University of Singapore](https://bschool.nus.edu.sg/). He has been pursuing MSc. degree in Business Analytics at NUS Business Analytics Center and has been working as a graduate teaching assistant in the Dept. of Management and Organization at NUS. He received BSc. in the [College of Business and Technology at Seoul National University of Science and Technology](https://sgc.seoultech.ac.kr/en/) in South Korea in 2018.
 
 He has working experience as a Data Analyst and a Business Analyst in the e-Commerce industry and Game industry and now studying Operational Strategies using Data Science in various domains such as commerce operation, people operation, and so on.
