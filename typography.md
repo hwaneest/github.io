@@ -104,13 +104,13 @@ main_nav: true
     <h4>History</h4>
     <ul>
       <li>
-        데이터분석 직무 및 기업 경험 멘토링 / 진학사 CATCH / 2022.01 ~ 현재
+        [공식 멘토] 데이터분석 직무 및 기업 경험 멘토링 / 진학사 CATCH / 2022.01 ~ 현재
       </li>
       <li>
-        소셜 커리어 멘토링 서비스 itdaa 플랫폼 공식 멘토 / itdaa / 2021.01 ~ 현재
+        [공식 멘토] 소셜 커리어 멘토링 서비스 itdaa 플랫폼 공식 멘토 / itdaa / 2021.01 ~ 현재
       </li>
       <li>
-        외국계 기업 취업준비생들을 위한 커리어 코칭/멘토링 / Curiousity Project Team / 2020.08 ~ present
+        [공식 멘토] 외국계 기업 취업준비생들을 위한 커리어 코칭/멘토링 / Curiousity Project Team / 2020.08 ~ present
       </li>
     </ul>
 </fieldset>
