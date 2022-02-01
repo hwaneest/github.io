@@ -13,11 +13,6 @@ main_nav: true
 
 <h2 id="list_types">강의</h2>
 
-  <h5><U>난이도</U></h5>
-  <ul>
-    <li>입문(Beginner) / (기본)Basic / (중급)Intermediate</li>
-  </ul>
-
   <h5><U>주제</U></h5>
   <ul>
     <li>데이터분석을 위한 Python 프로그래밍</li>
@@ -25,6 +20,11 @@ main_nav: true
     <li>SQL 프로그래밍</li>
     <li>데이터분석가/데이터사이언티스트를 위한 Statistics(기초통계학)</li>
     <li>기초통계학 & Python 프로그래밍</li>
+  </ul>
+
+  <h5><U>난이도</U></h5>
+  <ul>
+    <li>입문(Beginner) / (기본)Basic / (중급)Intermediate</li>
   </ul>
 
   <h4>History</h4>
@@ -79,7 +79,9 @@ main_nav: true
   <ul>
     <li>구분: 멘토링, 커리어코칭 등</li>
     <li>대상: 취업준비생, 비전문가 등</li>
-    <li>멘토링 주최/참여 기관: 고용노동부, 강남구청, 수원시청, 경남도청, 포스코 청암재단, 경기대, 단국대, 아주대, 인천대, 인하대, 홍익대 외 다수</li>
+    <ul>
+      <li>멘토링 주최/참여 기관: 고용노동부, 강남구청, 수원시청, 경남도청, 포스코 청암재단, 경기대, 단국대, 아주대, 인천대, 인하대, 홍익대 외 다수</li>
+    </ul>
   </ul>
 
 
@@ -94,12 +96,10 @@ main_nav: true
   </ul>
 
 <hr>
-<br>
+<hr>
 
-<hr>
-<hr>
-<hr>
-<hr>
+<U>[English]</U>
+
 <hr>
 
 
