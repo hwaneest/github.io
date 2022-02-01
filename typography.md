@@ -20,7 +20,9 @@ main_nav: true
       <li>SQL programming</li>
       <li>Statistics for Data Analyst/Data Scientist</li>
     </ul>
-    <li>난이도: Beginner / Basic / Intermediate</li>
+    <ul>
+      <li>난이도: Beginner / Basic / Intermediate</li>
+    </ul>
 
   <h4>History</h4>
   <ul>
