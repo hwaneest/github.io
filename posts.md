@@ -44,7 +44,6 @@ main_nav: true
 </ul>
 
 <p><br /></p>
-<p><br /></p>
 
 
 <!-- 
