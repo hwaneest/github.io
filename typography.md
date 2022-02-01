@@ -13,7 +13,7 @@ main_nav: true
 
 <h2 id="list_types">강의</h2>
 
-  <h4>주제</h4>
+  <h4 id="list_types">주제</h4>
     <ul>
       <li>Python programming for Data Analysis</li>
       <li>Python programming for Data Science</li>
