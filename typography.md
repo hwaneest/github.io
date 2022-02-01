@@ -13,12 +13,12 @@ main_nav: true
 
 <h2 id="list_types">강의</h2>
   <ul>
-    <li>주제:
+    <ul>주제:
       <li>Python programming for Data Analysis</li>
       <li>Python programming for Data Science</li>
       <li>SQL programming</li>
       <li>Statistics for Data Analyst/Data Scientist</li>
-    </li>
+    </ul>
     <li>난이도: Beginner / Basic / Intermediate</li>
   </ul>
 
