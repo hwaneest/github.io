@@ -116,16 +116,19 @@ main_nav: true
       <li>Python Programming for Data Science</li>
       <li>SQL Programming</li>
       <li>Statistics for Data Analyst/Data Scientist</li>
-      <li>Statistics & Python Programming
+      <li>Statistics & Python Programming</li>
     </ul>
 
     <h4>History</h4>
     <ul>
       <li>
-        DT University Data Analytics Basic Class / Hana Financial Group / 2021.04 ~ 2021.09
+        2021 Elice AI Track(2nd) Data Analytics Class / Ministry of Employment and Labor / 2021.08 ~ 2021.09
       </li>
       <li>
-        2021 Elice AI Track Data Analytics Class / Ministry of Employment and Labor / 2021.03 ~ 2021.09
+        DT University Data Analytics Basic Class / Hana Financial Group / 2021.08
+      </li>
+      <li>
+        2021 Elice AI Track(1st) Data Analytics Class / Ministry of Employment and Labor / 2021.03 ~ 2021.09
       </li>
       <li>
         DT University Digital Analytics Class / Hana Financial Group / 2021.04
