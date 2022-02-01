@@ -24,6 +24,7 @@ main_nav: true
     <li>List Item 3</li>
   </ul>
 
+<hr>
 
 <h1 id="list_types">강연</h1>
 
