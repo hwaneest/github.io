@@ -174,6 +174,21 @@ main_nav: true
     <h4>History</h4>
     <ul>
       <li>
+        데이터분석가 & 쿠팡 Experience / 진학사(CATCH) / 2022.01
+      </li>
+      <li>
+        데이터분석 웨비나 / (주)엘리스(K-Digital Credit) / 2021.12
+      </li>
+      <li>
+        데이터분석가 경험기 / (주)엔코아(PlayData) / 2021.05
+      </li>
+      <li>
+        데이터분석가 Life / B.O.A.Z(국내 빅데이터 연합동아리) / 2021.05
+      </li>
+      <li>
+        산업공학 진로 및 데이터분석 커리어 / 서울과학기술대학교(산업공학과) / 2021.05
+      </li>
+      <li>
         About Insight from Data Analysis / BixData / 2021.03
       </li>
       <li>
