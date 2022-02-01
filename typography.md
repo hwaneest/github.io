@@ -17,7 +17,7 @@ main_nav: true
     <li>난이도: Beginner / Basic / Intermediate</li>
   </ul>
 
-  <h4>강의 History</h4>
+  <h3>History</h3>
   <ul>
     <li>List Item 1</li>
     <li>List Item 2</li>
@@ -25,9 +25,15 @@ main_nav: true
   </ul>
 
 
-<h1 id="list_types">강연(특강 및 초청강연)</h1>
+<h1 id="list_types">강연</h1>
 
-  <h4>강연 History</h4>
+  <ul>
+    <li>구분: 특강, 초청강연 등</li>
+    <li>난이도: 비전문가 / 전문가</li>
+  </ul>
+
+
+  <h3>History</h3>
   <ul>
     <li>List Item 1</li>
     <li>List Item 2</li>
