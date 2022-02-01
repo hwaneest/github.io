@@ -5,11 +5,12 @@ permalink: /typography/
 main_nav: true
 ---
 
-<U>[English follows Korean.]</U>
 
 <p>본 페이지에서는 강의 및 강연 이력을 기술하였습니다. 강의의 경우 데이터분석, 데이터사이언스, python 프로그래밍, SQL 프로그래밍, 기초통계 등을 가르치고 있으며 취업준비생, 대기업 임직원, 대중을 대상으로 교육을 진행하고 있습니다. 강연의 경우 니즈에 따라 직무 인사이트, 산업 인사이트, 커리어 코칭 등 다양한 주제로 청자 분들을 찾아 뵙고 있습니다. 진행은 현재 상황에 맞게 온라인 또는 오프라인으로 진행하고 있으며 강의 및 강연 요청에 대한 상세 내용은 aitwillz@gmail.com 으로 문의를 부탁드립니다. </p>
 
 <hr>
+
+<U>(English follows Korean.)</U>
 
 <fieldset>
   <h2 id="list_types">강의</h2>
@@ -49,11 +50,12 @@ main_nav: true
         [A to Z 시리즈] 데이터분석 실전 클래스 / Curiousity Project Team / 2020.08
       </li>
     </ul>
-
+</fieldset>
 
   <hr>
 
 
+<fieldset>
   <h2 id="list_types">강연</h2>
 
     <ul>
@@ -71,10 +73,11 @@ main_nav: true
         About Insight from Data Analysis in the Game Industry / Seoul Data Science Research Group / 2019.06
       </li>
     </ul>
+</fieldset>
 
   <hr>
 
-
+<fieldset>
   <h2 id="list_types">멘토링</h2>
 
     <ul>
