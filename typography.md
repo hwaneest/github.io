@@ -5,9 +5,9 @@ permalink: /typography/
 main_nav: true
 ---
 
-[English follows Korean.]
+**<U>[English follows Korean.]</U>**
 
-<p>강의 경력을 기술하였습니다.</p>
+<p>본 페이지에서는 데이터분석, 데이터사이언스, python 프로그래밍, SQL 프로그래밍, 기초통계 등을 교육했던 강의 경력을 기술하였습니다.</p>
 
 <hr>
 <hr>
