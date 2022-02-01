@@ -13,8 +13,7 @@ Donghwan Kim is currently a graduate student in the [Business School at National
 
 He has working experience as a Data Analyst and a Business Analyst in the e-Commerce industry and Game industry and now studying Operational Strategies using Data Science in various domains such as commerce operation, people operation, and so on.
 
-He is also a lecturer who teaches Data Science to individuals in need of learning Data Technology. Mainly for people who are seeking a job including students along with employees of major firms. He teaches Python programming and SQL language along with Data Analytics and Data Science.
-
+He is also a lecturer who teaches Data Science to individuals in need of learning Data Technology. Mainly for people who are seeking a job including students along with employees of major firms. He teaches Python programming and SQL language along with Data Analytics and Data Science. Also as a guest lecturer, he is giving advice, industry insights or motivations to the unspecified individuals too. 
 
 <!-- Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
