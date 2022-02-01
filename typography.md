@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Typography
+title: Lecture
 permalink: /typography/
 main_nav: true
 ---
