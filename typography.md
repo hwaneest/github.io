@@ -11,89 +11,91 @@ main_nav: true
 
 <hr>
 
-<h2 id="list_types">강의</h2>
+<fieldset>
+  <h2 id="list_types">강의</h2>
 
-  <h5><U>주제</U></h5>
-  <ul>
-    <li>데이터분석을 위한 Python 프로그래밍</li>
-    <li>데이터사이언스를 위한 Python 프로그래밍</li>
-    <li>SQL 프로그래밍</li>
-    <li>데이터분석가/데이터사이언티스트를 위한 Statistics(기초통계학)</li>
-    <li>기초통계학 & Python 프로그래밍</li>
-  </ul>
+    <h5><U>주제</U></h5>
+    <ul>
+      <li>데이터분석을 위한 Python 프로그래밍</li>
+      <li>데이터사이언스를 위한 Python 프로그래밍</li>
+      <li>SQL 프로그래밍</li>
+      <li>데이터분석가/데이터사이언티스트를 위한 Statistics(기초통계학)</li>
+      <li>기초통계학 & Python 프로그래밍</li>
+    </ul>
 
-  <h5><U>난이도</U></h5>
-  <ul>
-    <li>입문(Beginner) / (기본)Basic / (중급)Intermediate</li>
-  </ul>
+    <h5><U>난이도</U></h5>
+    <ul>
+      <li>입문(Beginner) / (기본)Basic / (중급)Intermediate</li>
+    </ul>
 
-  <h4>History</h4>
-  <ul>
-    <li>
-      2021 엘리스 AI트랙(2기) 데이터분석 파트 교육 / 고용노동부(K-Digital Training) / 2021.08 ~ 2021.09
-    </li>
-    <li>
-      DT University 데이터분석 기본 교육 / 하나금융그룹 / 2021.08
-    </li>
-    <li>
-      2021 엘리스 AI트랙(1기) 데이터분석 파트 교육 / 고용노동부(K-Digital Training) / 2021.03 ~ 2021.09
-    </li>
-    <li>
-      DT University 디지털분석입문 교육 / 하나금융그룹 / 2021.04
-    </li>
-    <li>
-      2020 NIPA 믹스앤매치 AI/데이터분석 아카데미 강의 / 과학기술정보통신부, 정보통신산업진흥원 / 2020.11
-    </li>
-    <li>
-      [A to Z 시리즈] 데이터분석 실전 클래스 / Curiousity Project Team / 2020.08
-    </li>
-  </ul>
-
-
-<hr>
+    <h4>History</h4>
+    <ul>
+      <li>
+        2021 엘리스 AI트랙(2기) 데이터분석 파트 교육 / 고용노동부(K-Digital Training) / 2021.08 ~ 2021.09
+      </li>
+      <li>
+        DT University 데이터분석 기본 교육 / 하나금융그룹 / 2021.08
+      </li>
+      <li>
+        2021 엘리스 AI트랙(1기) 데이터분석 파트 교육 / 고용노동부(K-Digital Training) / 2021.03 ~ 2021.09
+      </li>
+      <li>
+        DT University 디지털분석입문 교육 / 하나금융그룹 / 2021.04
+      </li>
+      <li>
+        2020 NIPA 믹스앤매치 AI/데이터분석 아카데미 강의 / 과학기술정보통신부, 정보통신산업진흥원 / 2020.11
+      </li>
+      <li>
+        [A to Z 시리즈] 데이터분석 실전 클래스 / Curiousity Project Team / 2020.08
+      </li>
+    </ul>
 
 
-<h2 id="list_types">강연</h2>
-
-  <ul>
-    <li>구분: 특강, 초청강연 등</li>
-    <li>난이도: 비전문가 대상 / 전문가 대상</li>
-  </ul>
+  <hr>
 
 
-  <h4>History</h4>
-  <ul>
-    <li>
-      About Insight from Data Analysis / BixData / 2021.03
-    </li>
-    <li>
-      About Insight from Data Analysis in the Game Industry / Seoul Data Science Research Group / 2019.06
-    </li>
-  </ul>
+  <h2 id="list_types">강연</h2>
 
-<hr>
+    <ul>
+      <li>구분: 특강, 초청강연 등</li>
+      <li>난이도: 비전문가 대상 / 전문가 대상</li>
+    </ul>
 
 
-<h2 id="list_types">멘토링</h2>
+    <h4>History</h4>
+    <ul>
+      <li>
+        About Insight from Data Analysis / BixData / 2021.03
+      </li>
+      <li>
+        About Insight from Data Analysis in the Game Industry / Seoul Data Science Research Group / 2019.06
+      </li>
+    </ul>
 
-  <ul>
-    <li>구분: 멘토링, 커리어코칭 등</li>
-    <li>대상: 취업준비생, 비전문가 등</li>
-  </ul>
-  <ul>
-    <li>멘토링 주최/참여 기관: 고용노동부, 강남구청, 수원시청, 경남도청, 포스코 청암재단, 경기대, 단국대, 아주대, 인천대, 인하대, 홍익대 외 다수</li>
-  </ul>
+  <hr>
 
 
-  <h4>History</h4>
-  <ul>
-    <li>
-      Social Career Mentoring Service 'itdaa' platform official mentor / 2021.01 ~ present
-    </li>
-    <li>
-      Career Coaching and Mentoring for Global Company Employment / 2020.08 ~ present
-    </li>
-  </ul>
+  <h2 id="list_types">멘토링</h2>
+
+    <ul>
+      <li>구분: 멘토링, 커리어코칭 등</li>
+      <li>대상: 취업준비생, 비전문가 등</li>
+    </ul>
+    <ul>
+      <li>멘토링 주최/참여 기관: 고용노동부, 강남구청, 수원시청, 경남도청, 포스코 청암재단, 경기대, 단국대, 아주대, 인천대, 인하대, 홍익대 외 다수</li>
+    </ul>
+
+
+    <h4>History</h4>
+    <ul>
+      <li>
+        Social Career Mentoring Service 'itdaa' platform official mentor / 2021.01 ~ present
+      </li>
+      <li>
+        Career Coaching and Mentoring for Global Company Employment / 2020.08 ~ present
+      </li>
+    </ul>
+</fieldset>
 
 <hr>
 <hr>
