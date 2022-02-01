@@ -196,15 +196,17 @@ main_nav: true
     <h4>History</h4>
     <ul>
       <li>
-        Social Career Mentoring Service 'itdaa' platform official mentor / 2021.01 ~ present
+        [Official Mentor] Career Coaching and Mentoring for Domestic Students / JINHAK(CATCH) / 2022.01 ~ present
       </li>
       <li>
-        Career Coaching and Mentoring for Global Company Employment / 2020.08 ~ present
+        [Official Mentor] Social Career Mentoring Service 'itdaa' / itdaa / 2021.01 ~ present
+      </li>
+      <li>
+        [Official Mentor] Career Coaching and Mentoring for Global Company Employment / Curiousity Project Team / 2020.08 ~ present
       </li>
     </ul>
 </fieldset>
 
-<hr>
 <br>
 
 
