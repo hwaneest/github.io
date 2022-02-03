@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Career
-permalink: /posts/
+permalink: /career/
 main_nav: true
 ---
 
