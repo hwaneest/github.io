@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lecture
-permalink: /typography/
+permalink: /lecture/
 main_nav: true
 ---
 
