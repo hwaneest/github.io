@@ -36,11 +36,15 @@ main_nav: true
 
     <h4>History</h4>
     <ul>
-      <h6> aaa </h6>
-
-        &emsp;<li>
-          2021 엘리스 AI트랙(2기) 데이터분석 파트 교육 / 고용노동부(K-Digital Training) / 2021.08 ~ 2021.09
-        </li>
+      <li>
+        (기업교육) 데이터분석을 위한 python 심화 / 현대글로비스 / 2022.04 ~ 2022.05
+      </li>
+      <li>
+        (기업교육) 데이터분석을 위한 python 기초 / 현대글로비스 / 2022.02 ~ 2022.03
+      </li>
+      <li>
+        2021 엘리스 AI트랙(2기) 데이터분석 파트 교육 / 고용노동부(K-Digital Training) / 2021.08 ~ 2021.09
+      </li>
       <li>
         DT University 데이터분석 기본 교육 / 하나금융그룹 / 2021.08
       </li>
@@ -147,6 +151,12 @@ main_nav: true
 
     <h4>History</h4>
     <ul>
+      <li>
+        (Firm Training) Python programming for Data Analysis (Advanced) / Hyundai Glovis / 2022.04 ~ 2022.05
+      </li>
+      <li>
+        (Firm Training) Python programming for Data Analysis (Advanced) / Hyundai Glovis / 2022.02 ~ 2022.03
+      </li>    
       <li>
         2021 Elice AI Track(2nd) Data Analytics Class / Ministry of Employment and Labor / 2021.08 ~ 2021.09
       </li>
