@@ -36,7 +36,7 @@ main_nav: true
 
     <h4>History</h4>
     <ul>
-      <li>
+      <li>aaa
         <li>
           2021 엘리스 AI트랙(2기) 데이터분석 파트 교육 / 고용노동부(K-Digital Training) / 2021.08 ~ 2021.09
         </li>
