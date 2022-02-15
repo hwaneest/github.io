@@ -52,7 +52,7 @@ main_nav: true
         2021 엘리스 AI트랙(1기) 데이터분석 파트 교육 / 고용노동부(K-Digital Training) / 2021.03 ~ 2021.09
       </li>
       <li>
-        DT University 디지털분석입문 교육 / 하나금융그룹 / 2021.04
+        (기업교육) DT University 디지털분석입문 교육 / 하나금융그룹 / 2021.04
       </li>
       <li>
         2020 NIPA 믹스앤매치 AI/데이터분석 아카데미 강의 / 과학기술정보통신부, 정보통신산업진흥원 / 2020.11
@@ -167,7 +167,7 @@ main_nav: true
         2021 Elice AI Track(1st) Data Analytics Class / Ministry of Employment and Labor / 2021.03 ~ 2021.09
       </li>
       <li>
-        DT University Digital Analytics Class / Hana Financial Group / 2021.04
+        (Employee Training) DT University Digital Analytics Class / Hana Financial Group / 2021.04
       </li>
       <li>
         2020 NIPA Mix&Match AI/Data Analytics Academy Lecture / Ministry of Science and ICT / 2020.11
